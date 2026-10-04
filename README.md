@@ -1,14 +1,22 @@
 # AI Engineering Portfolio
 
-A build log of my 26-week journey through the **Agentic Engineer Program**. Each week I build something real, record what broke, and note what I learned. (Private for now; I plan to make it public once it has a few weeks of entries.)
-
+A build log of my 26-week journey through the **Agentic Engineer Program**. Each week I build something real, record what broke, and note what I learned.
 ## Progress
 
-| Week | Focus | Deliverable | Status |
-|------|-------|-------------|--------|
-| 0 | Setup and foundations | Dev environment, custom AI agent with tracing, this portfolio | Done |
-| 1-25 | _Per the curriculum_ | _Added as I go_ | Planned |
-| 26 | Capstone | _TBD_ | Planned |
+The program runs 26 weeks in six phases and produces 7 portfolio projects plus a bonus.
+
+| Weeks | Phase | Project / focus | Status |
+|-------|-------|-----------------|--------|
+| 0 | Onboarding | Dev environment, custom AI agent with tracing, this portfolio | Done |
+| 1-6 | Foundations | **#1 Digital Twin**: RAG chatbot that answers as me about my career, with citations | Planned |
+| 7-8 | Agents | **#2 Researcher-Writer**: orchestrator plus research, writer and image agents | Planned |
+| 9-10 | Agents | **#3 Multi-MCP Agent**: one agent using 3 MCP servers I write | Planned |
+| 11-12 | Production | **#4 Full-Stack Ship**: Project #2 as a product (Next.js, FastAPI, streaming, sign-in, Stripe test mode, cost caps) | Planned |
+| 13-14 | Production | **#5 MCP Agent on Azure**: Container Apps with Foundry, Key Vault, Managed Identity, App Insights | Planned |
+| 15-16 | Production | **#6 Pipeline with Eval Gates**: Terraform (3 envs), GitHub Actions with eval gates, nightly evals | Planned |
+| 17-22 | Capstone | **#7 Writer's Room Agent**: developmental editor, line editor and continuity checker agents (suggest-only) | Planned |
+| 21-23 | Capstone / Career | **Bonus: AI Readiness Calculator**: assessment web app that scores AI readiness | Planned |
+| 23-26 | Career | Portfolio polish: GitHub and LinkedIn profiles, demos and write-ups | Planned |
 
 ## Week 0: Foundations
 
