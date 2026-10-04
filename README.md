@@ -1,6 +1,6 @@
 # AI Engineering Portfolio
 
-A public build log of my 26-week journey through the **Agentic Engineer Program**. Each week I build something real, record what broke, and note what I learned.
+A build log of my 26-week journey through the **Agentic Engineer Program**. Each week I build something real, record what broke, and note what I learned. (Private for now; I plan to make it public once it has a few weeks of entries.)
 
 ## Progress
 
