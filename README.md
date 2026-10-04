@@ -45,8 +45,8 @@ Python, OpenAI API, Langfuse (v4, OpenTelemetry-based), python-dotenv, `unittest
 ### Run it
 
 ```bash
-git clone <agent-repo-url>
-cd <agent-repo>
+git clone https://github.com/hoovajr/custom-ai-agent.git
+cd custom-ai-agent
 python -m venv .venv
 .venv\Scripts\Activate.ps1        # Windows PowerShell
 pip install -r requirements.txt
@@ -56,7 +56,7 @@ python -m unittest discover -s tests
 
 ### Links
 
-- Agent project: _link to the agent repo, or `projects/week-0-custom-agent/`_
+- Agent project: [hoovajr/custom-ai-agent](https://github.com/hoovajr/custom-ai-agent) (private)
 - Langfuse trace screenshot: _add to `docs/images/`_
 
 ## Up next
